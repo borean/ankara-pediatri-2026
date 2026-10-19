@@ -1,12 +1,12 @@
 {
   "a.pdf": {
-    "sha256": "115eae4ed2fc3718a64a03feceacdb0e0726a0687a8864c3756c61c5bd249b08",
-    "bytes": 8149450,
+    "sha256": "00bc148608331f2b6c3b5d477e73bbca1c121adc0c811eb106a56c7ee577af37",
+    "bytes": 9981779,
     "pages": 57
   },
   "b.pdf": {
-    "sha256": "5d1c465b4334f7b4a2bbd8194b915f549baff5be294051f2f19f98719ce0c110",
-    "bytes": 3474283,
+    "sha256": "f2a7d22f5d3acf1fe9c50ba6c9b7196930746d5bed3e28c948c81e6cc9e0ad02",
+    "bytes": 4536300,
     "pages": 50
   },
   "c.pdf": {

@@ -13,7 +13,7 @@ Her PDF programla başlar; ilgili ders işaretlidir. İkinci sayfadaki kapak QR 
 
 [Kurs programı (PDF)](https://borean.github.io/ankara-pediatri-2026/program.pdf)
 
-Sunum slaytlarında uzun program başlıkları okunabilirlik için kısaltılmıştır. Saatler, kurs için sağlanan programdaki biçimiyle korunmuştur.
+Sunumların program sayfasında 14.30–16.00 aralığı tek bir Uygulama bloğuyla özetlenmiştir. Ayrıntılı rotasyon ve grup değişimi saatleri kurs programında yer alır.
 A sunumu paylaşım kopyasıdır; bütün konuları içerir. Konuşmacı notları bu depoda paylaşılmamıştır.
 
 Bu dosya adresleri kalıcıdır. Sonraki düzeltmeler aynı PDF adreslerine yüklenebilir.

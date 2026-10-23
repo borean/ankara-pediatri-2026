@@ -7,7 +7,7 @@ Sunumların tamamı aşağıda. Not tutmak veya fotoğraf çekmek zorunda değil
 
 Her PDF tek program slaytıyla başlar; ders başlıkları tamdır ve ilgili ders işaretlidir. İkinci sayfadaki kapak QR kodu aynı sunumun güncel PDF adresine gider.
 
-- **11.00 · Skill dosyalarıyla istatistiksel analiz ve bilimsel görselleştirme** — [71 slayt · PDF](https://borean.github.io/ankara-pediatri-2026/a.pdf)
+- **11.00 · Skill dosyalarıyla istatistiksel analiz ve bilimsel görselleştirme** — [70 slayt · PDF](https://borean.github.io/ankara-pediatri-2026/a.pdf)
 - **13.00 · Yapı, akış ve yapay zekâ destekli akademik yazarlık** — [50 slayt · PDF](https://borean.github.io/ankara-pediatri-2026/b.pdf)
 - **14.30 · Veriden sonuca: istatistik, şekil ve bulgular paragrafı** — [10 slayt · PDF](https://borean.github.io/ankara-pediatri-2026/c.pdf)
 
